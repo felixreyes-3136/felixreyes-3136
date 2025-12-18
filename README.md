@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Heureux-Dev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Full stack%20Blockchain%20Developer;AI,%20Blockchain%20Developer;Full-Stack%20Engineer;9+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Full-Stack%20Blockchain%20Developer;AI,%20Blockchain%20Developer;Full-Stack%20Engineer;9+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 # 👨‍🎓 About Me:
@@ -145,9 +145,6 @@ Hello!, I’m Heureux Developer, AI Full-Stack & Blockchain Developer with a str
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaycee1996&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaycee1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="220" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Jaycee1996&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaycee1996&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
 </div>
 
