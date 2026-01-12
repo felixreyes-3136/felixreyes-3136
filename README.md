@@ -10,7 +10,7 @@
 </p>
 
 # 👨‍🎓 About Me:
-Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong passion for building intelligent, scalable, and secure digital solutions. Experienced in modern web technologies including React, Next.js, Node.js, Python, and TypeScript, combined with hands-on expertise in smart-contract development and decentralized applications. Skilled in designing seamless UI/UX experiences, integrating AI models into real products, and deploying DApps across leading blockchain networks. Dedicated to delivering high-performance systems, solving complex technical challenges, and contributing to future-focused projects at the intersection of AI and blockchain innovation.
+Hello!, I’m Felix Reyes, AI Full-Stack & Blockchain Developer with a strong passion for building intelligent, scalable, and secure digital solutions. Experienced in modern web technologies including React, Next.js, Node.js, Python, and TypeScript, combined with hands-on expertise in smart-contract development and decentralized applications. Skilled in designing seamless UI/UX experiences, integrating AI models into real products, and deploying DApps across leading blockchain networks. Dedicated to delivering high-performance systems, solving complex technical challenges, and contributing to future-focused projects at the intersection of AI and blockchain innovation.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=felixreyes-3136&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
